@@ -1,16 +1,20 @@
-# untitled4
+# 🏋️‍♂️ Workout Tracker UI - Flutter  
 
-A new Flutter project.
+A sleek and modern **Workout Tracker UI** built using **Flutter**, displaying exercises and their details using **ExerciseDB**.  
 
-## Getting Started
+## 🚀 Features  
+- 📋 **List of Exercises** – Browse various workouts with detailed information.  
+- 🔍 **Search & Filter** – Easily find exercises based on muscle group, equipment, or category.  
+- 📊 **Exercise Details** – View instructions, images, and difficulty levels.  
+- 🎨 **Smooth UI/UX** – Built with a modern Flutter design for seamless user experience.  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack  
+- **Flutter** – Cross-platform UI framework  
+- **ExerciseDB API** – Fetches exercise data  
+- **Dart** – Backend logic  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation  
+1. **Clone the repository:**  
+   ```sh
+   git clone https://github.com/yourusername/workout-tracker-ui.git
+   cd workout-tracker-ui
